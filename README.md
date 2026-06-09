@@ -50,22 +50,6 @@ cd react-weather-app
 npm install
 
 npm run dev
-
-<img width="1902" height="952" alt="image" src="https://github.com/user-attachments/assets/872428be-b79b-4609-a6a3-5e9637597f19" />
-<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/ffb2288f-5cb7-4241-98df-f1567af2f41c" />
-
-## What I Learned
-React Hooks (useState, useEffect)
-API Integration with Axios
-Local Storage
-Responsive UI Design
-Dark Mode Implementation
-Deployment using Vercel
-
-## Author
-
-Neeraj Sharma
-
 GitHub:
 https://github.com/imneeraj2210
 
