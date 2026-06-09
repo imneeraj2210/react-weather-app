@@ -32,11 +32,13 @@ https://react-weather-dashboard-fr05czpiz-neeraj-sharma-s-projects1.vercel.app/
 
 ### Light Mode
 
-<paste screenshot here>
+<img width="1902" height="952" alt="image" src="https://github.com/user-attachments/assets/4e725b2e-157f-4d31-a92f-fafb8033d432" />
+
 
 ### Dark Mode
 
-<paste screenshot here>
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/5ebe6193-894a-461e-b0a7-a8241c8dd4fa" />
+
 
 ## Installation
 
