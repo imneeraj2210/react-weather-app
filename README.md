@@ -1,16 +1,53 @@
-# React + Vite
+# Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive weather application built with React and Vite that provides real-time weather information, location-based weather, and a 3-day forecast using WeatherAPI.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://react-weather-dashboard-fr05czpiz-neeraj-sharma-s-projects1.vercel.app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Search weather by city
+- Current location weather using Geolocation API
+- 3-Day weather forecast
+- Dark / Light mode
+- Search history with Local Storage
+- Responsive design
+- Weather condition icons
+- Deployed on Vercel
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- Axios
+- WeatherAPI
+- GitHub
+- Vercel
+
+## Screenshots
+
+### Light Mode
+
+<paste screenshot here>
+
+### Dark Mode
+
+<paste screenshot here>
+
+## Installation
+
+```bash
+git clone https://github.com/imneeraj2210/react-weather-app.git
+
+cd react-weather-app
+
+npm install
+
+npm run dev
+
+<img width="1902" height="952" alt="image" src="https://github.com/user-attachments/assets/872428be-b79b-4609-a6a3-5e9637597f19" />
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/ffb2288f-5cb7-4241-98df-f1567af2f41c" />
