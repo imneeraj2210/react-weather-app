@@ -50,8 +50,3 @@ cd react-weather-app
 npm install
 
 npm run dev
-GitHub:
-https://github.com/imneeraj2210
-
-LinkedIn:
-https://www.linkedin.com/in/neeraj-sharma-22101990m/
